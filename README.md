@@ -33,6 +33,8 @@ loopy@gmail.com
 https://www.omdbapi.com/?apikey=88888888&s=Decision+To+Leave
 The quick brown fox jumps over the lazy dog.
 abbcccddddeeeee
+http://localhost:1234
+노는게 제일 좋아 친구들 모여라 언제나 즐거워
 `;
 ```
 
